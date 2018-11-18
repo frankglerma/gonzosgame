@@ -1,0 +1,86 @@
+p {
+  color: black;
+  text-align: center;
+  font-family:sans-serif;
+
+}
+#header {
+  width: 100%;
+  background-color: black;
+}
+
+body {
+  background-color: white;
+}
+img {
+    max-width: 497px;
+    max-height: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    margin-top: -15px;
+}
+div#menu {
+  text-align: center;
+}
+div#menu ul, li, a {
+  border-color: black;
+  display: inline;
+  font-size: 30px;
+  font-family: monospace;
+  color: black;
+  padding: 10px;
+  text-decoration: none;
+  margin-bottom: 30px;
+}
+div#para {
+  padding-top: 100px;
+  padding-bottom: 800px;
+}
+
+li, a:hover {
+  color: #bfbfbf;
+}
+
+
+.ideology {
+  padding-top: 100px;
+  width: 500px;
+  height: 350px;
+  margin-left: auto;
+  margin-right: auto;
+  overflow: visible;
+}
+
+.fgl {
+  width: 360px;
+  height: 200px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.paper {
+  padding-top: 30px;
+  width: 500px;
+  height: 170px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.bear {
+  padding-top: 30px;
+  width: 500px;
+  height: 186px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.slips {
+  padding-top: 30px;
+  width: 500px;
+  height: 426px;
+  margin-left: auto;
+  margin-right: auto;
+}
